@@ -18,7 +18,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nvsys/-/nvsys-0.2.4.tgz",
+  "_resolved": "https://registry.npmjs.org/nvsys/-/nvsys-0.2.5.tgz",
   "_shasum": "7e95823c81cd6f450fdf1ce9c9afc2749427070a",
   "_spec": "nvsys",
   "_where": "/home/admin/web/node.nukeviet.systems/public_html",
@@ -57,21 +57,21 @@
   "scripts": {
     "start": "node index.js"
   },
-  "version": "0.2.4",
+  "version": "0.2.5",
   "warnings": [
     {
       "code": "ENOTSUP",
       "required": {
         "node": "0.10.x"
       },
-      "pkgid": "nvsys@0.2.4"
+      "pkgid": "nvsys@0.2.5"
     },
     {
       "code": "ENOTSUP",
       "required": {
         "node": "0.10.x"
       },
-      "pkgid": "nvsys@0.2.4"
+      "pkgid": "nvsys@0.2.5"
     }
   ]
 }
