@@ -1,16 +1,16 @@
 {
-  "_from": "jt-js-sample",
-  "_id": "jt-js-sample@0.2.4",
+  "_from": "nvsys",
+  "_id": "nvsys@0.2.4",
   "_inBundle": false,
   "_integrity": "sha1-fpWCPIHNb0UP3xzpya/CdJQnBwo=",
-  "_location": "/jt-js-sample",
+  "_location": "/nvsys",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "jt-js-sample",
-    "name": "jt-js-sample",
-    "escapedName": "jt-js-sample",
+    "raw": "nvsys",
+    "name": "nvsys",
+    "escapedName": "nvsys",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,22 +19,22 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/jt-js-sample/-/jt-js-sample-0.2.4.tgz",
+  "_resolved": "https://registry.npmjs.org/nvsys/-/nvsys-0.2.4.tgz",
   "_shasum": "7e95823c81cd6f450fdf1ce9c9afc2749427070a",
-  "_spec": "jt-js-sample",
+  "_spec": "nvsys",
   "_where": "/home/admin/web/node.nukeviet.systems/public_html",
   "author": {
     "name": "Mark Pundsack"
   },
   "bugs": {
-    "url": "https://github.com/heroku/node-js-sample/issues"
+    "url": "https://github.com/nvsys/nvsys/issues"
   },
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "Zeke Sikelianos",
-      "email": "zeke@sikelianos.com",
-      "url": "http://zeke.sikelianos.com"
+      "name": "NV Systems",
+      "email": "hoangnt@nguyenvan.vn",
+      "url": "http://nguyenvan.vn"
     }
   ],
   "dependencies": {
@@ -45,18 +45,21 @@
   "engines": {
     "node": "0.10.x"
   },
-  "homepage": "https://github.com/heroku/node-js-sample#readme",
+  "homepage": "https://github.com/nvsys/nvsys#readme",
   "keywords": [
     "node",
-    "heroku",
-    "express"
+    "nvsystems",
+    "express",
+	"nukeviet",
+	"nguyenvan",
+	"webvangvn"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "jt-js-sample",
+  "name": "nvsys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-sample.git"
+    "url": "git+https://github.com/nvsys/nvsys.git"
   },
   "scripts": {
     "start": "node index.js"
@@ -68,14 +71,14 @@
       "required": {
         "node": "0.10.x"
       },
-      "pkgid": "jt-js-sample@0.2.4"
+      "pkgid": "nvsys@0.2.4"
     },
     {
       "code": "ENOTSUP",
       "required": {
         "node": "0.10.x"
       },
-      "pkgid": "jt-js-sample@0.2.4"
+      "pkgid": "nvsys@0.2.4"
     }
   ]
 }

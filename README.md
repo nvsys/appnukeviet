@@ -7,7 +7,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 Make sure you have [Node.js](http://nodejs.org/)  installed.
 
 ```sh
-git clone git@github.com:nvsys/appnvsys.git # or clone your own fork
+git clone git@github.com:nvsys/nvsys.git # or clone your own fork
 cd appnukeviet
 npm install
 npm start
