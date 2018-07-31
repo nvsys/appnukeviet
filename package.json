@@ -1,6 +1,5 @@
 {
   "_from": "nvsys",
-  "_id": "nvsys@0.2.4",
   "_inBundle": false,
   "_integrity": "sha1-fpWCPIHNb0UP3xzpya/CdJQnBwo=",
   "_location": "/nvsys",
@@ -23,19 +22,13 @@
   "_shasum": "7e95823c81cd6f450fdf1ce9c9afc2749427070a",
   "_spec": "nvsys",
   "_where": "/home/admin/web/node.nukeviet.systems/public_html",
-  "author": {
-    "name": "Mark Pundsack"
-  },
+  "author": "Mark Pundsack",
   "bugs": {
     "url": "https://github.com/nvsys/nvsys/issues"
   },
   "bundleDependencies": false,
   "contributors": [
-    {
-      "name": "NV Systems",
-      "email": "hoangnt@nguyenvan.vn",
-      "url": "http://nguyenvan.vn"
-    }
+    "NV Systems <hoangnt@nguyenvan.vn> (http://nguyenvan.vn)"
   ],
   "dependencies": {
     "express": "^4.0.0"
@@ -50,9 +43,9 @@
     "node",
     "nvsystems",
     "express",
-	"nukeviet",
-	"nguyenvan",
-	"webvangvn"
+    "nukeviet",
+    "nguyenvan",
+    "webvangvn"
   ],
   "license": "MIT",
   "main": "index.js",
